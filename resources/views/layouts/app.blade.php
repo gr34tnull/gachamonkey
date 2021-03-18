@@ -19,7 +19,7 @@
         <script src="{{ asset('js/app.js') }}" defer></script>
     </head>
     <body class="font-sans antialiased">
-        <div class="min-h-screen bg-gradient-to-r from-indigo-500 via-purple-400 to-pink-300">
+        <div class="min-h-screen bg-blue-900">
             @livewire('navigation-dropdown')
 
             <!-- Page Heading -->
